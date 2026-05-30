@@ -1,0 +1,5 @@
+package com.gs.ngn.domainmodel.enums;
+public enum AIActionType {
+    CLOSE_SHIELDS, OPEN_SHIELDS, ACTIVATE_BACKUP_POWER,
+    LOCK_MODULE, UNLOCK_MODULE, REDUCE_CONSUMPTION, EMERGENCY_PROTOCOL
+}
