@@ -1,7 +1,7 @@
 # NGN – Nova Gaia Nexus
 
 > **Sistema aeroespacial de monitoramento e gestão de habitats espaciais**  
-> Projeto da disciplina de Engenharia de Software — Global Solution  
+> Projeto da disciplina de DDD do curso Engenharia de Software — Global Solution  
 
 ---
 
