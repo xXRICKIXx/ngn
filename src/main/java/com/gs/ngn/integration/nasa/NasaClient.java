@@ -19,7 +19,10 @@ public class NasaClient {
     private final RestTemplate restTemplate;
     private final String apiKey;
 
-    //aqui vai a sua api, voce pode usar a demo ja salva no codigo, quando a demo estoura o limite o spring alerta uma menssagem e não roda o codigo
+    /**
+     *aqui vai a sua api key importada do properties.
+     * importannte alterar ela caso você queira usar a sua chave própria.
+     */
     public NasaClient(RestTemplate restTemplate,
                       @Value("${nasa.api.key:DEMO_KEY}") String apiKey) {
         this.restTemplate = restTemplate;
