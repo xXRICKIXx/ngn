@@ -1,5 +1,5 @@
 -- ============================================================
--- NGN – Nova Gaia Network  |  Dados iniciais para demonstração
+-- NGN – Nova Gaia Nexus |  Dados iniciais para demonstração
 -- ============================================================
 
 -- Habitat principal
