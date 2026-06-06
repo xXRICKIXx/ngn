@@ -210,6 +210,6 @@ mvn spring-boot:run
 
 ## Vídeo
 
-- **Vídeo Pitch:** [link aqui]
+- **Vídeo Pitch:** https://youtu.be/hDaczMYFMlI?si=3aE-hikqneqJzKfa
 - **Vídeo Técnico** [link aqui]
 
